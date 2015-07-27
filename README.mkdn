@@ -1,0 +1,21 @@
+Benzo Rom
+===========
+
+This is just my manifest for shamu that I use to build my ROM.
+
+
+Getting Started
+---------------
+
+To get started with Benzo, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+To initialize your local repository use a command like this:
+
+    repo init -u git://github.com/BenzoRom/manifest_benzo.git -b lollipop
+
+Then to sync up:
+
+    repo sync
+
+
