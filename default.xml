@@ -304,7 +304,7 @@
   <project path="frameworks/opt/hardware" name="BenzoRom/frameworks_opt_hardware" remote="github" revision="lollipop" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" groups="pdk-cw-fs" />
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs" />
+  <project path="frameworks/opt/net/ims" name="BenzoRom/frameworks_opt_net_ims" remote="github" revision="lollipop" />
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" groups="pdk-cw-fs" />
   <project path="frameworks/opt/net/wifi" name="BenzoRom/frameworks_opt_net_wifi" groups="pdk" remote="github" revision="lollipop" />
   <project path="frameworks/opt/net/ethernet" name="platform/frameworks/opt/net/ethernet" />
