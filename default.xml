@@ -351,7 +351,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="kernel/moto/shamu" name="BenzoRom/kernel_moto_shamu" remote="github" revision="lollipop" />
   <project path="libcore" name="BenzoRom/libcore" groups="pdk" remote="github" revision="lollipop" />
-  <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
+  <project path="libnativehelper" name="BenzoRom/libnativehelper" groups="pdk" remote="github" revision="lollipop" />
   <project path="ndk" name="BenzoRom/ndk" remote="github" revision="lollipop" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/BenzoOTA" name="BenzoRom/packages_apps_BenzoOTA" remote="github" revision="lollipop" />
