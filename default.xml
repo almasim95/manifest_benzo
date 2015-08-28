@@ -368,6 +368,7 @@
   <project path="packages/apps/ContactsCommon" name="BenzoRom/packages_apps_ContactsCommon" remote="github" revision="lollipop" />
   <project path="packages/apps/DeskClock" name="BenzoRom/packages_apps_DeskClock" remote="github" revision="lollipop" />
   <project path="packages/apps/Dialer" name="BenzoRom/packages_apps_Dialer" remote="github" revision="lollipop" />
+  <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" remote="github" revision="cm-12.1" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/FMRadio" name="platform/packages/apps/FMRadio" />
