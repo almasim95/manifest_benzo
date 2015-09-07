@@ -307,7 +307,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" groups="pdk-cw-fs" />
-  <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" />
+  <project path="frameworks/rs" name="BenzoRom/frameworks_rs" groups="pdk" remote="github" revision="lollipop" />
   <project path="frameworks/support" name="BenzoRom/frameworks_support" groups="pdk-cw-fs" remote="github" revision="lollipop" />
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs" />
   <project path="frameworks/webview" name="BenzoRom/frameworks_webview" groups="pdk-cw-fs" remote="github" revision="lollipop" />
@@ -387,7 +387,7 @@
   <project path="packages/apps/Mms" name="BenzoRom/packages_apps_Mms" remote="github" revision="lollipop" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
+  <project path="packages/apps/Nfc" name="BenzoRom/packages_apps_Nfc" remote="github" revision="lollipop" />
   <project path="packages/apps/OmniSwitch" name="BenzoRom/packages_apps_OmniSwitch" remote="github" revision="lollipop" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="BenzoRom/packages_apps_PackageInstaller" remote="github" revision="lollipop" />
