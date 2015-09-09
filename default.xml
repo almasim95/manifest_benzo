@@ -366,7 +366,7 @@
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
   <project path="packages/apps/Camera2" name="BenzoRom/packages_apps_Camera2" remote="github" revision="lollipop" />
   <project path="packages/apps/CellBroadcastReceiver" name="BenzoRom/packages_apps_CellBroadcastReceiver" remote="github" revision="lollipop" />
-  <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs" />
+  <project path="packages/apps/CertInstaller" name="BenzoRom/packages_apps_CertInstaller" groups="pdk-cw-fs" remote="github" revision="lollipop" />
   <project path="packages/apps/CMFileManager" name="BenzoRom/packages_apps_CMFileManager" remote="github" revision="lollipop" />
   <project path="packages/apps/Contacts" name="BenzoRom/packages_apps_Contacts" remote="github" revision="lollipop" />
   <project path="packages/apps/ContactsCommon" name="BenzoRom/packages_apps_ContactsCommon" remote="github" revision="lollipop" />
