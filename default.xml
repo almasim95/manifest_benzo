@@ -101,6 +101,8 @@
   <project path="external/deqp" name="platform/external/deqp" />
   <project path="external/dexmaker" name="platform/external/dexmaker" groups="pdk-cw-fs" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" groups="pdk-cw-fs" />
+  <project path="external/dnscrypt-proxy" name="CyanogenMod/android_external_dnscrypt_dnscrypt-proxy" remote="github" revision="cm-12.1" />
+  <project path="external/libsodium" name="CyanogenMod/android_external_dnscrypt_libsodium" remote="github" revision="cm-12.1" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" groups="pdk" />
   <project path="external/doclava" name="platform/external/doclava" groups="pdk-cw-fs,tradefed" />
   <project path="external/droiddriver" name="platform/external/droiddriver" groups="pdk-cw-fs" />
