@@ -363,6 +363,7 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" groups="pdk-fs" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" />
   <project path="packages/apps/NovaLauncher" name="BenzoRom/packages_apps_NovaLauncher" groups="pdk-fs" remote="github" revision="marshmallow" />
+  <project path="packages/apps/OmniSwitch" name="BenzoRom/packages_apps_OmniSwitch" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" groups="pdk-fs" />
   <project path="packages/apps/PackageInstaller" name="BenzoRom/packages_apps_PackageInstaller" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" groups="pdk-fs" />
