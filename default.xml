@@ -329,7 +329,7 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="kernel/moto/shamu" name="BenzoRom/kernel_moto_shamu" remote="github" revision="marshmallow" />
   <project path="libcore" name="BenzoRom/libcore" groups="pdk" remote="github" revision="marshmallow" />
-  <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
+  <project path="libnativehelper" name="BenzoRom/libnativehelper" groups="pdk" remote="github" revision="marshmallow" />
   <project path="ndk" name="BenzoRom/ndk" groups="generic_fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/BenzoOTA" name="BenzoRom/packages_apps_BenzoOTA" remote="github" revision="marshmallow" />
@@ -354,7 +354,6 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" groups="pdk-fs" />
   <project path="packages/apps/InCallUI" name="BenzoRom/packages_apps_InCallUI" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" groups="pdk-fs" />
-  <project path="packages/apps/Launcher3" name="BenzoRom/packages_apps_Launcher3" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/LockClock" name="BenzoRom/packages_apps_LockClock" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" />
@@ -372,6 +371,7 @@
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" />
   <project path="packages/apps/SaberChrome" name="BenzoRom/packages_apps_SaberChrome" remote="github" revision="marshmallow" />
   <project path="packages/apps/Settings" name="BenzoRom/packages_apps_Settings" groups="pdk-fs" remote="github" revision="marshmallow" />
+  <project path="packages/apps/SlimLauncher" name="BenzoRom/packages_apps_SlimLauncher" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" groups="pdk-fs" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" groups="pdk-fs" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" groups="pdk-fs" />
