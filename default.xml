@@ -335,6 +335,7 @@
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/BenzoOTA" name="BenzoRom/packages_apps_BenzoOTA" remote="github" revision="marshmallow" />
   <project path="packages/apps/Bluetooth" name="BenzoRom/packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="github" revision="marshmallow" />
+  <project path="packages/apps/Browser" name="BenzoRom/packages_apps_Browser" remote="github" revision="marshmallow" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" groups="pdk-fs" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" groups="pdk-fs" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" groups="pdk-fs" />
@@ -370,7 +371,6 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" groups="pdk-fs" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" />
-  <project path="packages/apps/SaberChrome" name="BenzoRom/packages_apps_SaberChrome" remote="github" revision="marshmallow" />
   <project path="packages/apps/Settings" name="BenzoRom/packages_apps_Settings" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/SlimLauncher" name="BenzoRom/packages_apps_SlimLauncher" groups="pdk-fs" remote="github" revision="marshmallow" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" groups="pdk-fs" />
