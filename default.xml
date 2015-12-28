@@ -439,7 +439,7 @@
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/bt" name="BenzoRom/system_bt" groups="pdk" remote="github" revision="marshmallow" />
   <project path="system/core" name="BenzoRom/system_core" groups="pdk" remote="github" revision="marshmallow" />
-  <project path="system/extras" name="platform/system/extras" groups="pdk" />
+  <project path="system/extras" name="BenzoRom/system_extras" groups="pdk" remote="github" revision="marshmallow" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
