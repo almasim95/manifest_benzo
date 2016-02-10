@@ -29,7 +29,7 @@
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
-  <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
+  <project path="development" name="BenzoRom/development" groups="pdk-cw-fs,pdk-fs" remote="github" revision="marshmallow" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/moto/shamu" name="BenzoRom/device_moto_shamu" groups="device,shamu,broadcom_pdk" remote="github" revision="marshmallow" />
   <project path="device/sample" name="device/sample" groups="pdk" />
@@ -427,7 +427,7 @@
   <project path="prebuilts/gradle-plugin" name="platform/prebuilts/gradle-plugin" groups="pdk-cw-fs,pdk-fs" />
   <project path="prebuilts/libs/libedit" name="platform/prebuilts/libs/libedit" groups="pdk-cw-fs,pdk-fs" />
   <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" groups="pdk-cw-fs,pdk-fs" />
-  <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk" />
+  <project path="prebuilts/misc" name="BenzoRom/prebuilts_misc" groups="pdk" remote="github" revision="marshmallow" />
   <project path="prebuilts/ndk" name="BenzoRom/prebuilts_ndk" groups="pdk" remote="github" revision="marshmallow" />
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux,pdk,pdk-cw-fs,pdk-fs" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" groups="pdk" clone-depth="1" />
