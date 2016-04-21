@@ -255,7 +255,7 @@
   <project path="frameworks/ex" name="BenzoRom/frameworks_ex" groups="pdk-cw-fs,pdk-fs" remote="github" revision="marshmallow" />
   <project path="frameworks/mff" name="platform/frameworks/mff" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/ml" name="BenzoRom/frameworks_ml" groups="pdk-cw-fs,pdk-fs" remote="github" revision="marshmallow" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="BenzoRom/frameworks_native" groups="pdk" remote="github" revision="marshmallow" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" />
@@ -273,7 +273,7 @@
   <project path="frameworks/opt/net/ims" name="BenzoRom/frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" remote="github" revision="marshmallow" />
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/net/wifi" name="BenzoRom/frameworks_opt_net_wifi" groups="pdk" remote="github" revision="marshmallow" />
-  <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/opt/photoviewer" name="BenzoRom/frameworks_opt_photoviewer" groups="pdk-cw-fs,pdk-fs" remote="github" revision="marshmallow" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/telephony" name="BenzoRom/frameworks_opt_telephony" groups="pdk" remote="github" revision="marshmallow" />
   <project path="frameworks/opt/timezonepicker" name="BenzoRom/frameworks_opt_timezonepicker" groups="pdk-cw-fs,pdk-fs" remote="github" revision="marshmallow" />
